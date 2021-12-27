@@ -2,6 +2,7 @@
 <h3 align="center">Angular | React | Vue | Node.js | GraphQL Expert</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whale-guru-dev&label=Profile%20views&color=0e75b6&style=flat" alt="whalegurudev" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whale-guru-dev" alt="whalegurudev" /></a> </p>
+<br />
 - :telescope: Full Stack Developer with 8+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
 - :speech_balloon: Ask me about **Angular, React, Vue, Nuxt, GraphQL, Ionic, React Native, NodeJs, NestJs, Typescript, Bitcoin, Ethereum, Solidity, Smart Contract, Blockchain**.
 - :mailbox: How to reach me **kstergar65@gmail.com**
